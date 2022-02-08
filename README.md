@@ -5,7 +5,7 @@ Dylan Brunelle (i love minions)
 ## How did i find out abt this?
 Through the grapevine... naw I'm playin I saw it on discord
 
-##Gameplay Notes:
+### Gameplay Notes:
 
 There is a minimum amount of random encounters when exploring/traveling between areas. However, you can continue to explore after the minimum.
 Sarms can be bought multiple times, but only upgrades your current weapon.
