@@ -18,6 +18,6 @@ Hostile encounters can be avoided by paying money. Exceptions are wimpy characte
 Taking the NFT puts the game in hard mode... but also unlocks secret alliance.<br>
 Snoop dogg is a crip.<br>
 Do not sexually harass the metaverse employees.<br>
-Grandma's pie is more than just a snack. <br>
+Grandma's pie is more than just a snack. Maybe hold on to it for a bit...<br>
 Every item in the store has a purpose.<br>
 Demon's blood doesn't actually do anything. Deal with it.<br>
