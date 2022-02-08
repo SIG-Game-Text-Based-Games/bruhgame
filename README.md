@@ -11,7 +11,7 @@ When in combat, pressing fight will cause you and your opponent to hit each othe
 There is a minimum amount of random encounters when exploring/traveling between areas. However, you can continue to explore after the minimum.<br>
 Sarms can be bought multiple times, but only upgrades your current weapon.<br>
 Returning to areas is encouraged.<br>
-If you have the option to just "leave" an enemy, you don't have to fight them. Duh.
+If you have the option to just "leave" an enemy, you don't have to fight them. Duh.<br>
 Get vaccinated.<br>
 You will probably die. You don't HAVE to repeat travel after death, but you should <br>
 Hostile encounters can be avoided by paying money. Exceptions are wimpy characters that can't be paid off, and fat characters that can't chase you. <br>
